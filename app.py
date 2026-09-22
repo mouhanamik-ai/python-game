@@ -1,6 +1,6 @@
 import os
 import time
-
+streamlit
 # ألوان ANSI للواجهة النصية
 COLOR_RESET = "\033[0m"
 COLOR_TITLE = "\033[1;36m"
